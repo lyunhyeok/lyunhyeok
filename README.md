@@ -2,9 +2,8 @@
 
 
 <!-- Tech Stack Section -->
-<center>
-## Tech stack
-</center>
+
+<center> TECH STACK </center>
 
 
 <div>
