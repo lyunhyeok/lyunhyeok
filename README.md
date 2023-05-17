@@ -3,9 +3,6 @@
 
 <!-- Tech Stack Section -->
 
-<center> TECH STACK </center>
-
-
 <div align = "center">
   <h1>TECH STACK</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
