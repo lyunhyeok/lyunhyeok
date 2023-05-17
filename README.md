@@ -1,5 +1,5 @@
 <!-- header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Lyunhyeok&font&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Lyunhyeok&font&fontColor=FFFFFF&fontSize=40&animation=blinking)
 
 <!-- body -->
 
