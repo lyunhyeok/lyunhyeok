@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Lyunhyeok&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=150&section=header&text=Lyunhyeok&fontSize=50&color=white)
 
 
 <!-- Tech Stack Section -->
