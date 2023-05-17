@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=150&section=header&text=Lyunhyeok&fontSize=50&color=#FFFFFF)
+<!-- header -->
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Lyunhyeok&font&fontColor=FFFFFF&fontSize=40)
 
+<!-- body -->
 
-<!-- Tech Stack Section -->
-
-
+<!-- Tech Stack -->
 ## TECH STACK
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=html5&logoColor=white"/>
 
